@@ -1,0 +1,26 @@
+---
+title: "Home"
+site: workflowr::wflow_site
+output:
+  workflowr::wflow_html:
+    toc: false
+editor_options:
+  chunk_output_type: console
+---
+
+# Authors
+
+Jared Collette
+
+# Analysis
+
+This is following a workshop presented here:
+Differential expression analysis
+30 November 2020
+Authors: Belinda Phipson, Anna Trigos, Matt Ritchie, Shian Su, Maria Doyle, Harriet Dashnow, Charity Law
+
+https://combine-australia.github.io/RNAseq-R/06-rnaseq-day1.html
+
+## Differential Analysis: RNA Workshop
+
+* [RNA Workshop](01-RNAWorkshop.Rmd)
